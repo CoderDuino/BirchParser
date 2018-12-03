@@ -1,0 +1,10 @@
+^== Made with [33m[1mBirch[39m[22m[35m[1mMicro[39m[22m[36m[1mIDE[39m[22m;
+
+eq $a,5+5
+eq $b,10+10
+eq $b,20+20
+print $a
+print $b
+eq $b,20+40
+print $b
+^== HI

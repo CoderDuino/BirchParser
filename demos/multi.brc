@@ -1,0 +1,9 @@
+eq $a,5+5
+eq $b,10+10
+eq $b,20+20
+prt $a
+prt $b
+eq $b,20+40
+prt $b
+^== HI
+d 
